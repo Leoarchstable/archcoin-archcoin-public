@@ -1,0 +1,13 @@
+{
+  "name": "Archcoin",
+  "symbol": "ARCHCOIN",
+  "description": "Public reference metadata for Archcoin on Solana. See official links for the live whitepaper and announcements.",
+  "image": "ipfs://bafkreig7tbsc6wvioj36o2iyj6xdq2ilri7qy5qtxjxaacldhdhrxsepcy",
+  "external_url": "https://archstablecoin.com/home",
+  "extensions": {
+    "website": "https://archstablecoin.com/home",
+    "twitter": "https://x.com/archiestable",
+    "telegram": "https://t.me/+FFv4ZfT18YZkOThl",
+    "whitepaper": "https://archcoinsolana.medium.com/arch-token-whitepaper-45c94c0bfa0d"
+  }
+}
